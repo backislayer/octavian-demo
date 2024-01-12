@@ -1,0 +1,31 @@
+
+body{
+    font-family: sans-serif;
+    background-color: rgb(99, 99, 47);
+}
+header h1{
+    background-color: blue;
+    color: blueviolet;
+    animation: color 5s infinite;
+    font-size: 70px;
+    
+}
+@keyframes color {
+    0%{color:rgb(0, 89, 255)}
+    20%{color:rgb(53, 43, 25)}
+    40%{color:rgb(255, 0, 0)}
+    60%{color:rgb(132, 0, 255)}
+    80%{color:rgb(255, 0, 170)}
+    100%{color:rgb(0, 255, 255)}
+
+}
+li{
+    float: left;
+}
+.big2{
+    margin: 50px;
+    
+}
+iframe{
+    margin: 20px;
+}

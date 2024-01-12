@@ -1,0 +1,84 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;1,300;1,400&family=Poppins:wght@300;400&family=Ubuntu&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;1,400&family=Poppins:wght@300;400&family=Rubik+Doodle+Shadow&family=Ubuntu&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+
+    
+}
+.nav1 ul{
+    list-style: none;
+    background-color: black;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.nav1 ul li a{
+    color: white;
+    text-decoration: none;
+    padding: 27px;
+    display: flex;
+    text-align: center;
+}
+.nav1 a:hover{
+    background-color: rgb(48, 43, 43);
+}
+.nav1 li{
+    float: right;
+}
+img{
+    height: 79px;
+    width: 100px;
+    overflow: hidden;
+    object-fit: contain;
+    
+}
+.page-section video{
+    width: 100%;
+    opacity: 78%;
+
+}
+.center h1{
+    text-align: center;
+}
+.center-1{
+    width: 100%;
+    height: 250px;
+    background-color: rgb(7, 136, 172);
+    margin-top: -26px ;
+    padding: 0;
+    overflow-x: hidden;
+
+
+}
+.center-1 h1 {
+    color: rgb(49, 13, 13);
+    text-align: center;
+    padding: 50px;
+    text-decoration: dashed; 
+    font-size: 36px;
+    letter-spacing: 3px;
+}
+hr{
+    width: 500px;
+
+    
+}
+.fact{
+    background: linear-gradient(
+    
+    );
+    font-family: 'Rubik Doodle Shadow', sans-serif;
+    font-size: 25px;
+   
+    
+
+}
+marquee{
+    height: 250px;
+}
+li{
+    list-style: none;
+}
